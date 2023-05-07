@@ -1,5 +1,4 @@
-# README
-Simulador de conta bancária
+# Simulador de conta bancária
 
 Esse é um programa em Java que simula as funcionalidades de uma conta bancária. Ele permite que o usuário interaja com a conta através de um menu que oferece as opções de depositar, sacar, transferir, verificar o saldo e sair.
 
